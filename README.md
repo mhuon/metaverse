@@ -29,5 +29,5 @@ After you have decided which segment of space you want your ad content to be pre
 What would this be if you couldn't actual see this in a virtual world. Let me demonstrate loading this dynamic ad content that has been bidded on and is now the winning content to display:  To make this more relevant I've placed an ad you'll recognize.
 
 
-[![Watch the video](https://github.com/mhuon/metaverse/blob/main/images/ss4.png?raw=true)](https://watch.screencastify.com/v/yrASlOo5HMWvlkhwOax7)
+[![Watch the video](https://github.com/mhuon/metaverse/blob/main/images/ss4.png?raw=true)](https://github.com/mhuon/metaverse/blob/main/images/mov.mp4)
 
