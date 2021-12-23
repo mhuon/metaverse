@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/10405595/147283331-e0c62762-acd7-4ce3-
 
 ### About me
 
-I'm a priciple software engineer working for a small biotech company building out internal solutions to solve next problems that the world is currently facing. I'm a problem solver at heart and always looking for opportunities to build company that will have a positive impact on society.
+I'm a priciple software engineer working for a small biotech company building out internal solutions to solve problems that the world is currently facing (covid [atum.bio]). I'm a problem solver at heart and always looking for opportunities to build company that will have a positive impact on society.
 
 
 
